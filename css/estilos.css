@@ -1,0 +1,83 @@
+.volver{
+	width: 4%;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.volver img{
+	width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #bd975c;
+}
+
+.padre .logo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.padre .logo img{
+    width: 25%;
+    height: 200px;
+}
+
+.padre .opc_categorias{
+    text-align: center;
+    font-family: 'Playball';
+    font-size: 30px;
+    color: #bd975c;
+}
+
+.padre .opc_categorias .categorias{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.contenedor{
+    border-radius: 10px;
+    width: 18%;
+    height: 220px;
+}
+
+.contenedor img{
+    width: 90%;
+    height: 80%;
+}
+
+.espacio{
+    margin-bottom: 8%;
+}
+
+.azul{
+    border: solid aqua;
+    background-color: aqua;
+}
+
+.celeste{
+    border: solid skyblue;
+    background-color: skyblue;
+}
+
+.cafe{
+    border: solid coral;
+    background-color: coral;
+}
+
+.amarillo{
+    border: solid darkgoldenrod;
+    background-color: darkgoldenrod;
+}
+
+.marron{
+    border: solid goldenrod;
+    background-color: goldenrod;
+}
+
+.rosa{
+    border: solid hotpink;
+    background-color: hotpink;
+}

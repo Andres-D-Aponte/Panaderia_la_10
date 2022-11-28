@@ -1,0 +1,33 @@
+COSAS QUE FALTAN
+
+tipo de letra para el banner
+hover para el banner
+
+tipo de letra para el bienvenido
+
+tipo de letra para el h1 de quienes somos
+
+tipo de letra para horario de apertura
+
+lo mismo para nuestra gastronomia y para la reserva
+
+
+
+------------------------------------------------------
+
+PAGINAS PARA GUIARME
+https://www.pasteleriaflorida.com.co
+https://www.susi.com.co
+
+---------------
+HACER
+
+QUITAR CARTA DOMICILIOS
+
+EN MENU UTILIZAR EL JAVASCRIP DE SANTIAGO PERO CON LOS PRODUCTOS 
+RECOMENDADOS
+
+MOSTRAR LAS CATEGORIAS Y DENTRO DE ELLAS MOSTRAR LOS PRODUCTOS DE CADA 
+CATEGORIA DESDE LA BASE DE DATOS Y AHÍ MISMO HACER EL JV DEL .THIS
+
+
